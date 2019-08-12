@@ -1,0 +1,40 @@
+#info {
+    top: 0%;
+    right: 0%;
+    left: 50%;
+    bottom: 50%;
+    position: absolute;
+    border: 3px solid #73AD21;
+}
+
+#cart {
+    top: 50%;
+    right : 0%;
+    left: 50%;
+    bottom: 0%;
+    position: absolute;
+    border: 3px solid #73AD21;
+}
+
+#category {
+    position: absolute;
+    left : 0.7%;
+    top: 8%;
+    border: 3px solid #73AD21;
+}
+
+
+h1, a {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: x-large;
+    font-weight: bold;
+    color: tomato;
+}
